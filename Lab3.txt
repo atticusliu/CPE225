@@ -1,0 +1,10 @@
+.Orig x3000; start at x3000
+
+Prompt the User to “Type in their name”
+PROMPT .STRINGZ “E”; 
+PROMPT .STRINGZ “n”; 
+PROMPT .STRINGZ “t”; 
+PROMPT .STRINGZ “e”; 
+PROMPT .STRINGZ “r”; 
+PROMPT .STRINGZ “ ”; 
+PROMPT .STRINGZ “Y”; 
